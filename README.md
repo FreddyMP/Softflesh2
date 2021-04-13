@@ -2,7 +2,7 @@
 
 #SoftFlesh es un sistema ERP creado en PHP.
 
-#NOTA: Esta es una versiòn de muestra por lo que està imcompleta y con errores.
+#NOTA: Esta es una versiòn de muestra por lo que està incompleta y con errores.
 
 #Para probarlo se encuentra en la rama "Master", y debe tener instalado y funcionando:
 1-Servidor apache ejecutando.
