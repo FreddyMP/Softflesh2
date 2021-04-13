@@ -13,4 +13,4 @@
 2-Logearse con las credenciales en la ruta http://localhost/softflesh/views/login/login.php
 
 
-Este sistema lo he estado realizando en colaboracion con Victor Recio. 
+Este sistema lo he estado realizando en colaboracion con Victor Recio   https://github.com/victorRecio. 
