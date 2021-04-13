@@ -1,0 +1,39 @@
+#box_lista{
+    width:70%;
+    max-width: 1100px;
+    float:left;
+    height: 1100px;
+    margin-left:20px; 
+    margin-top:20px;
+    background-color:white;
+    padding:40px; 
+    border-radius:7px;
+    overflow:scroll;
+    overflow-x:hidden;
+}
+.buscar::-webkit-scrollbar {
+    width: 8px;     /* Tamaño del scroll en vertical */
+    height: 118px;  /* Tamaño del scroll en horizontal */
+}
+ss
+form{
+    float:right;
+}
+#buscar{
+    background-color: #882f88;
+    color:white;
+}
+.thead{
+    background-color:#882f88;
+    color:white;
+}
+.box-modulos{
+    height: 150px;
+}
+@media screen and (max-width: 1160px) 
+{
+    #box_lista{
+        width:95%;
+        
+    }
+}
